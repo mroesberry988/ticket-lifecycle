@@ -37,6 +37,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 
+![image](https://github.com/mroesberry988/Ticket-Examples/assets/134666751/7527c837-be05-464b-9f34-63c1b931354b)
+
+
 
 
 
